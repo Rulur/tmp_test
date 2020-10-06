@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "origin": "sandbox.rightech.io",
+  "time": "2020-10-06T09:53:27.694Z",
+  "user": "5f056ca1b778426eb8cfe40a",
+  "group": "5f056ca1b77842e482cfe408",
+  "store": "objects",
+  "data": {
+    "_id": "5f7c3e6307deba70993456b1",
+    "id": "mqtt-rightech_demo-1-fchun",
+    "name": "mqtt-rightech_demo-1-fchun",
+    "botEnabled": true,
+    "status": "ok",
+    "active": true,
+    "group": "5f056ca1b77842e482cfe408",
+    "bot": {
+      "state": "stopped"
+    },
+    "includeProcessedData": false,
+    "config": {
+      "auth": {},
+      "x509": {}
+    }
+  }
+}
